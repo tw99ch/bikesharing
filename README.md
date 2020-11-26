@@ -6,24 +6,24 @@ The purpose of this analysis is to analyze the Citibike usage data for September
 # Results
 Based on the analysis for Checkout Times for user, we can see that the mode of the usage times are in 4 hours to 6 hours range. 
 
-![](/img/Checkout Times for Users.PNG)
+![](/img/Checkout_Times_for_Users.PNG)
 
 Then we further looked into the usage by gender, we can see the mode of the usage times are in 4 hours to 6 hours range for both the male users use and female users. In addition, there are more male user than female user from Citibike usage data.
 
-![](/img/Checkout Times by Gender.PNG)
+![](/img/Checkout_Times_by_Gender.PNG)
 
 We further looked into the number of bike trips by weekday for each hour of the day as a heatmap. The heatmap shows the peak hours are in 8AM and 5-6PM which are mainly the commute hours. 
 
-![](/img/Trips by Weekday for Each Hour.PNG)
+![](/img/Trips_by_Weekday_for_Each_Hour.PNG)
 
 And from Trips by Gender (Weekday per Hour), we can see, male user use more Citibike for commuting then female users.
 
-![](/img/Trips by Gender (Weekday per Hour).PNG)
+![](/img/Trips_by_Gender_Weekday_per_Hour.PNG)
 
 Lastly, from Trips by Gender by Weekday, we can tell there are more male subcriber users then female subscriber users.
 There are not much different for short-term customers.
 
-![](/img/Trips by Gender by Weekday.PNG)
+![](/img/Trips_by_Gender_by_Weekday.PNG)
 
 
 # Summary
