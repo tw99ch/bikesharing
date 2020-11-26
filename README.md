@@ -26,7 +26,7 @@ And from Trips by Gender (Weekday per Hour), we can see, male user use more Citi
 Lastly, from Trips by Gender by Weekday, we can tell there are more male subcriber users then female subscriber users.
 There are not much different for short-term customers.
 
-![](/img/Trips_by_Gender by_Weekday.PNG)
+![](/img/Trips_by_Gender_by_Weekday.PNG)
 
 
 
