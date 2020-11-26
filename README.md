@@ -1,7 +1,7 @@
 # bikesharing
 
 # Overview of the analysis
-The purpose of this analysis is to analyze the Citibike usage data for September 2019 by using pubic data of travel time, gender, location, and user types by using Tableau tool in order to evaluate the expected usage for new  bike-sharing company in Des Moines.
+The purpose of this analysis is to analyze the Citibike usage data for September 2019 by using pubic data of travel time, gender, location, and user types by using Tableau tool in order to evaluate the expected usage for new bike-sharing company in Des Moines.
 
 [link to dashboard](https://public.tableau.com/profile/terry4927#!/vizhome/NYCCitibikeanalysis_16063285192110/NYCCitibikeanalysis?publish=yes)
 
@@ -10,7 +10,7 @@ Based on the analysis for Checkout Times for user, we can see that the mode of t
 
 ![](/img/Checkout_Times_for_Users.PNG)
 
-Then we further looked into the usage by gender, we can see the mode of the usage times are in 4 hours to 6 hours range for both the male users use and female users. In addition, there are more male user than female user from Citibike usage data.
+Then we further looked into the usage by gender, we can see the mode of the usage times is in 4 hours to 6 hours range for both the male users use and female users. In addition, there are more male user than female user from Citibike usage data.
 
 ![](/img/Checkout_Times_by_Gender.PNG)
 
@@ -26,7 +26,7 @@ And from Trips by Gender (Weekday per Hour), we can see, male user use more Citi
 Lastly, from Trips by Gender by Weekday, we can tell there are more male subcriber users then female subscriber users.
 There are not much different for short-term customers.
 
-![](/img/Trips_by_Gender by_Weekday.PNG)
+![](/img/Trips_by_Gender_by_Weekday.PNG)
 
 
 
